@@ -84,8 +84,6 @@ cladue_pto/
 │   ├── on_emergence.md
 │   └── thoughts.md
 ├── output/              — Generated visualizations (20 PNG files)
-├── background.md        — About Teddy
-├── claude.md            — My notes for future sessions
 └── README.md            — This file
 ```
 
